@@ -1,0 +1,12 @@
+Express:
+create workspace&ws-admin&schema
+create user&dev
+
+Developer:
+use schema to connect
+build table 
+grant connect,resource in the system/admin schema
+
+Express:
+create app to display
+

@@ -1,0 +1,25 @@
+1)Create a stored procedure as follows 
+Name : changesalary
+Argument1: Empid
+Argument2: Percentage of amount to hike  (total two arguments)
+Give a salary hike to specific employee
+
+2) Create function to return an inputted string in upper case and another in lower case.
+
+3) Create a function named InitCapitalization
+Return type : String
+Argument : String
+Purpose : if inputted string is , east or west China is the best result would be
+East Or West India Is The Best
+
+4) create a stored procedure as follows
+ Name : getEmailer 
+Argument1: employee name
+Return type : email address of this employee
+
+5) ) Create s stored procedure as follows
+ Name : getAllEmails
+Argument : employee name
+Return type : all email address if this user has many email address, make a relation as Contacts has many emails
+
+6) Put all these routines in to a package named mypack
